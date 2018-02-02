@@ -1,0 +1,27 @@
+2018-01-18 10:38:38,210 INFO o.a.j.u.JMeterUtils: Setting Locale to zh_CN
+2018-01-18 10:38:38,230 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2018-01-18 10:38:38,241 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2018-01-18 10:38:38,252 INFO o.a.j.JMeter: Setting System property: server_port=1099
+2018-01-18 10:38:38,258 INFO o.a.j.JMeter: Copyright (c) 1998-2017 The Apache Software Foundation
+2018-01-18 10:38:38,258 INFO o.a.j.JMeter: Version 3.3 r1808647
+2018-01-18 10:38:38,258 INFO o.a.j.JMeter: java.version=1.8.0_151
+2018-01-18 10:38:38,258 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2018-01-18 10:38:38,258 INFO o.a.j.JMeter: os.name=Mac OS X
+2018-01-18 10:38:38,258 INFO o.a.j.JMeter: os.arch=x86_64
+2018-01-18 10:38:38,258 INFO o.a.j.JMeter: os.version=10.13.2
+2018-01-18 10:38:38,258 INFO o.a.j.JMeter: file.encoding=UTF-8
+2018-01-18 10:38:38,259 INFO o.a.j.JMeter: Max memory     =536870912
+2018-01-18 10:38:38,259 INFO o.a.j.JMeter: Available Processors =4
+2018-01-18 10:38:38,265 INFO o.a.j.JMeter: Default Locale=中文 (中国)
+2018-01-18 10:38:38,266 INFO o.a.j.JMeter: JMeter  Locale=中文 (中国)
+2018-01-18 10:38:38,266 INFO o.a.j.JMeter: JMeterHome=/Users/abigale/Desktop/jmeter/apache-jmeter-3.3
+2018-01-18 10:38:38,266 INFO o.a.j.JMeter: user.dir  =/Users/abigale/Desktop/jmeter/apache-jmeter-3.3/bin
+2018-01-18 10:38:38,266 INFO o.a.j.JMeter: PWD       =/Users/abigale/Desktop/jmeter/apache-jmeter-3.3/bin
+2018-01-18 10:38:38,357 INFO o.a.j.JMeter: IP: 192.168.2.231 Name: niutangdeiMac.local FullName: 192.168.2.231
+2018-01-18 10:38:38,558 INFO o.a.j.e.RemoteJMeterEngineImpl: Starting backing engine on 1099
+2018-01-18 10:38:38,559 INFO o.a.j.e.RemoteJMeterEngineImpl: System property 'java.rmi.server.hostname' is not defined, using localHost address
+2018-01-18 10:38:38,559 INFO o.a.j.e.RemoteJMeterEngineImpl: Local IP address=192.168.2.231
+2018-01-18 10:38:38,559 INFO o.a.j.e.RemoteJMeterEngineImpl: IP address is a site-local address; this may cause problems with remote access.
+	Can be overridden by defining the system property 'java.rmi.server.hostname' - see jmeter-server script file
+2018-01-18 10:38:38,559 INFO o.a.j.e.RemoteJMeterEngineImpl: Creating RMI registry (server.rmi.create=true)
+2018-01-18 10:38:38,571 INFO o.a.j.e.RemoteJMeterEngineImpl: Bound to registry on port 1099
